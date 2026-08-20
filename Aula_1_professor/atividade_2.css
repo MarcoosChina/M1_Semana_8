@@ -1,0 +1,20 @@
+h1 {
+  color: #dd4200;
+}
+
+h2 {
+  color: #FF4B00;
+}
+
+h3 {
+  color: #FF8400;
+}
+
+li::marker {
+  color: #FF8400;
+  font-weight: 600;
+}
+
+.imagem {
+  width: 325px;
+}
